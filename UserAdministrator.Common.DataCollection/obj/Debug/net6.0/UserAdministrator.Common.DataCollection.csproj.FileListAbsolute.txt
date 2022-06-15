@@ -1,0 +1,12 @@
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.DataCollection\bin\Debug\net6.0\UserAdministrator.Common.DataCollection.deps.json
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.DataCollection\bin\Debug\net6.0\UserAdministrator.Common.DataCollection.dll
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.DataCollection\bin\Debug\net6.0\ref\UserAdministrator.Common.DataCollection.dll
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.DataCollection\bin\Debug\net6.0\UserAdministrator.Common.DataCollection.pdb
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.DataCollection\obj\Debug\net6.0\UserAdministrator.Common.DataCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.DataCollection\obj\Debug\net6.0\UserAdministrator.Common.DataCollection.AssemblyInfoInputs.cache
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.DataCollection\obj\Debug\net6.0\UserAdministrator.Common.DataCollection.AssemblyInfo.cs
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.DataCollection\obj\Debug\net6.0\UserAdministrator.Common.DataCollection.csproj.CoreCompileInputs.cache
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.DataCollection\obj\Debug\net6.0\UserAdministrator.Common.DataCollection.dll
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.DataCollection\obj\Debug\net6.0\ref\UserAdministrator.Common.DataCollection.dll
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.DataCollection\obj\Debug\net6.0\UserAdministrator.Common.DataCollection.pdb
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.DataCollection\obj\Debug\net6.0\UserAdministrator.Common.DataCollection.csproj.AssemblyReference.cache

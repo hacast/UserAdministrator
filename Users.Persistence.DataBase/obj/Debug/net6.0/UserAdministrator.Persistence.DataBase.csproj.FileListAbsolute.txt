@@ -1,0 +1,17 @@
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Persistence.DataBase\bin\Debug\net6.0\UserAdministrator.Persistence.DataBase.deps.json
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Persistence.DataBase\bin\Debug\net6.0\UserAdministrator.Persistence.DataBase.dll
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Persistence.DataBase\bin\Debug\net6.0\ref\UserAdministrator.Persistence.DataBase.dll
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Persistence.DataBase\bin\Debug\net6.0\UserAdministrator.Persistence.DataBase.pdb
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Persistence.DataBase\obj\Debug\net6.0\UserAdministrator.Persistence.DataBase.csproj.AssemblyReference.cache
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Persistence.DataBase\obj\Debug\net6.0\UserAdministrator.Persistence.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Persistence.DataBase\obj\Debug\net6.0\UserAdministrator.Persistence.DataBase.AssemblyInfoInputs.cache
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Persistence.DataBase\obj\Debug\net6.0\UserAdministrator.Persistence.DataBase.AssemblyInfo.cs
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Persistence.DataBase\obj\Debug\net6.0\UserAdministrator.Persistence.DataBase.csproj.CoreCompileInputs.cache
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Persistence.DataBase\obj\Debug\net6.0\UserAdministrator.Persistence.DataBase.dll
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Persistence.DataBase\obj\Debug\net6.0\ref\UserAdministrator.Persistence.DataBase.dll
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Persistence.DataBase\obj\Debug\net6.0\UserAdministrator.Persistence.DataBase.pdb
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Persistence.DataBase\bin\Debug\net6.0\UserAdministrator.Persistence.DataBase.runtimeconfig.json
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Persistence.DataBase\bin\Debug\net6.0\UserAdministrator.Domain.dll
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Persistence.DataBase\bin\Debug\net6.0\UserAdministrator.Domain.pdb
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Persistence.DataBase\obj\Debug\net6.0\UserAdministrator.Persistence.DataBase.csproj.CopyComplete
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Persistence.DataBase\obj\Debug\net6.0\UserAdministrator.Persistence.DataBase.genruntimeconfig.cache

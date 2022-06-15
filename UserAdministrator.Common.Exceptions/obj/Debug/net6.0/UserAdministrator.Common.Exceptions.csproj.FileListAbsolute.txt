@@ -1,0 +1,12 @@
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Exceptions\bin\Debug\net6.0\UserAdministrator.Common.Exceptions.deps.json
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Exceptions\bin\Debug\net6.0\UserAdministrator.Common.Exceptions.dll
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Exceptions\bin\Debug\net6.0\ref\UserAdministrator.Common.Exceptions.dll
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Exceptions\bin\Debug\net6.0\UserAdministrator.Common.Exceptions.pdb
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Exceptions\obj\Debug\net6.0\UserAdministrator.Common.Exceptions.csproj.AssemblyReference.cache
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Exceptions\obj\Debug\net6.0\UserAdministrator.Common.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Exceptions\obj\Debug\net6.0\UserAdministrator.Common.Exceptions.AssemblyInfoInputs.cache
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Exceptions\obj\Debug\net6.0\UserAdministrator.Common.Exceptions.AssemblyInfo.cs
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Exceptions\obj\Debug\net6.0\UserAdministrator.Common.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Exceptions\obj\Debug\net6.0\UserAdministrator.Common.Exceptions.dll
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Exceptions\obj\Debug\net6.0\ref\UserAdministrator.Common.Exceptions.dll
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Exceptions\obj\Debug\net6.0\UserAdministrator.Common.Exceptions.pdb

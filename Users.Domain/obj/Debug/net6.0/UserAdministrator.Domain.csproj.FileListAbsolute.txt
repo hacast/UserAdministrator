@@ -1,0 +1,14 @@
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Domain\bin\Debug\net6.0\UserAdministrator.Domain.deps.json
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Domain\bin\Debug\net6.0\UserAdministrator.Domain.dll
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Domain\bin\Debug\net6.0\ref\UserAdministrator.Domain.dll
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Domain\bin\Debug\net6.0\UserAdministrator.Domain.pdb
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Domain\obj\Debug\net6.0\UserAdministrator.Domain.csproj.AssemblyReference.cache
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Domain\obj\Debug\net6.0\UserAdministrator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Domain\obj\Debug\net6.0\UserAdministrator.Domain.AssemblyInfoInputs.cache
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Domain\obj\Debug\net6.0\UserAdministrator.Domain.AssemblyInfo.cs
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Domain\obj\Debug\net6.0\UserAdministrator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Domain\obj\Debug\net6.0\UserAdministrator.Domain.dll
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Domain\obj\Debug\net6.0\ref\UserAdministrator.Domain.dll
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Domain\obj\Debug\net6.0\UserAdministrator.Domain.pdb
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Domain\bin\Debug\net6.0\UserAdministrator.Domain.runtimeconfig.json
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\Users.Domain\obj\Debug\net6.0\UserAdministrator.Domain.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Mapping\bin\Debug\net6.0\UserAdministrator.Common.Mapping.deps.json
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Mapping\bin\Debug\net6.0\UserAdministrator.Common.Mapping.dll
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Mapping\bin\Debug\net6.0\ref\UserAdministrator.Common.Mapping.dll
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Mapping\bin\Debug\net6.0\UserAdministrator.Common.Mapping.pdb
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Mapping\obj\Debug\net6.0\UserAdministrator.Common.Mapping.csproj.AssemblyReference.cache
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Mapping\obj\Debug\net6.0\UserAdministrator.Common.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Mapping\obj\Debug\net6.0\UserAdministrator.Common.Mapping.AssemblyInfoInputs.cache
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Mapping\obj\Debug\net6.0\UserAdministrator.Common.Mapping.AssemblyInfo.cs
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Mapping\obj\Debug\net6.0\UserAdministrator.Common.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Mapping\obj\Debug\net6.0\UserAdministrator.Common.Mapping.dll
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Mapping\obj\Debug\net6.0\ref\UserAdministrator.Common.Mapping.dll
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Mapping\obj\Debug\net6.0\UserAdministrator.Common.Mapping.pdb

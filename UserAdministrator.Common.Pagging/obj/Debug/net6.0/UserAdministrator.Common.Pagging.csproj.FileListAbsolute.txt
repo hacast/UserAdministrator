@@ -1,0 +1,15 @@
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Pagging\bin\Debug\net6.0\UserAdministrator.Common.Pagging.deps.json
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Pagging\bin\Debug\net6.0\UserAdministrator.Common.Pagging.dll
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Pagging\bin\Debug\net6.0\ref\UserAdministrator.Common.Pagging.dll
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Pagging\bin\Debug\net6.0\UserAdministrator.Common.Pagging.pdb
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Pagging\bin\Debug\net6.0\UserAdministrator.Common.DataCollection.dll
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Pagging\bin\Debug\net6.0\UserAdministrator.Common.DataCollection.pdb
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Pagging\obj\Debug\net6.0\UserAdministrator.Common.Pagging.csproj.AssemblyReference.cache
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Pagging\obj\Debug\net6.0\UserAdministrator.Common.Pagging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Pagging\obj\Debug\net6.0\UserAdministrator.Common.Pagging.AssemblyInfoInputs.cache
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Pagging\obj\Debug\net6.0\UserAdministrator.Common.Pagging.AssemblyInfo.cs
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Pagging\obj\Debug\net6.0\UserAdministrator.Common.Pagging.csproj.CoreCompileInputs.cache
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Pagging\obj\Debug\net6.0\UserAdministrator.Common.Pagging.csproj.CopyComplete
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Pagging\obj\Debug\net6.0\UserAdministrator.Common.Pagging.dll
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Pagging\obj\Debug\net6.0\ref\UserAdministrator.Common.Pagging.dll
+C:\Users\900214968\source\repos\UserAdministrator\UserAdministrator\UserAdministrator.Common.Pagging\obj\Debug\net6.0\UserAdministrator.Common.Pagging.pdb

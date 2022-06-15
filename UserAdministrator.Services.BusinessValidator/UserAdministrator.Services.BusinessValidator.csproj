@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.6">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UserAdministrator.Commands\UserAdministrator.Services.Commands.csproj" />
+    <ProjectReference Include="..\UserAdministrator.Common.DataCollection\UserAdministrator.Common.DataCollection.csproj" />
+    <ProjectReference Include="..\UserAdministrator.Common.Exceptions\UserAdministrator.Common.Exceptions.csproj" />
+    <ProjectReference Include="..\UserAdministrator.Queries\UserAdministrator.Services.Queries.csproj" />
+  </ItemGroup>
+
+</Project>

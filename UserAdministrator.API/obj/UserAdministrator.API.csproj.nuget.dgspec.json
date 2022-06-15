@@ -1,0 +1,797 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.API\\UserAdministrator.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.API\\UserAdministrator.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.API\\UserAdministrator.API.csproj",
+        "projectName": "UserAdministrator.API",
+        "projectPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.API\\UserAdministrator.API.csproj",
+        "packagesPath": "C:\\Users\\900214968\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\900214968\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Services.BusinessValidator\\UserAdministrator.Services.BusinessValidator.csproj": {
+                "projectPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Services.BusinessValidator\\UserAdministrator.Services.BusinessValidator.csproj"
+              },
+              "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\Users.Persistence.DataBase\\UserAdministrator.Persistence.DataBase.csproj": {
+                "projectPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\Users.Persistence.DataBase\\UserAdministrator.Persistence.DataBase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Commands\\UserAdministrator.Services.Commands.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Commands\\UserAdministrator.Services.Commands.csproj",
+        "projectName": "UserAdministrator.Services.Commands",
+        "projectPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Commands\\UserAdministrator.Services.Commands.csproj",
+        "packagesPath": "C:\\Users\\900214968\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Commands\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\900214968\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\Users.Persistence.DataBase\\UserAdministrator.Persistence.DataBase.csproj": {
+                "projectPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\Users.Persistence.DataBase\\UserAdministrator.Persistence.DataBase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Common.DataCollection\\UserAdministrator.Common.DataCollection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Common.DataCollection\\UserAdministrator.Common.DataCollection.csproj",
+        "projectName": "UserAdministrator.Common.DataCollection",
+        "projectPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Common.DataCollection\\UserAdministrator.Common.DataCollection.csproj",
+        "packagesPath": "C:\\Users\\900214968\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Common.DataCollection\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\900214968\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Common.Exceptions\\UserAdministrator.Common.Exceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Common.Exceptions\\UserAdministrator.Common.Exceptions.csproj",
+        "projectName": "UserAdministrator.Common.Exceptions",
+        "projectPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Common.Exceptions\\UserAdministrator.Common.Exceptions.csproj",
+        "packagesPath": "C:\\Users\\900214968\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Common.Exceptions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\900214968\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Common.Mapping\\UserAdministrator.Common.Mapping.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Common.Mapping\\UserAdministrator.Common.Mapping.csproj",
+        "projectName": "UserAdministrator.Common.Mapping",
+        "projectPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Common.Mapping\\UserAdministrator.Common.Mapping.csproj",
+        "packagesPath": "C:\\Users\\900214968\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Common.Mapping\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\900214968\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Common.Pagging\\UserAdministrator.Common.Pagging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Common.Pagging\\UserAdministrator.Common.Pagging.csproj",
+        "projectName": "UserAdministrator.Common.Pagging",
+        "projectPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Common.Pagging\\UserAdministrator.Common.Pagging.csproj",
+        "packagesPath": "C:\\Users\\900214968\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Common.Pagging\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\900214968\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Common.DataCollection\\UserAdministrator.Common.DataCollection.csproj": {
+                "projectPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Common.DataCollection\\UserAdministrator.Common.DataCollection.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Queries\\UserAdministrator.Services.Queries.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Queries\\UserAdministrator.Services.Queries.csproj",
+        "projectName": "UserAdministrator.Services.Queries",
+        "projectPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Queries\\UserAdministrator.Services.Queries.csproj",
+        "packagesPath": "C:\\Users\\900214968\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Queries\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\900214968\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Common.DataCollection\\UserAdministrator.Common.DataCollection.csproj": {
+                "projectPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Common.DataCollection\\UserAdministrator.Common.DataCollection.csproj"
+              },
+              "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Common.Mapping\\UserAdministrator.Common.Mapping.csproj": {
+                "projectPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Common.Mapping\\UserAdministrator.Common.Mapping.csproj"
+              },
+              "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Common.Pagging\\UserAdministrator.Common.Pagging.csproj": {
+                "projectPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Common.Pagging\\UserAdministrator.Common.Pagging.csproj"
+              },
+              "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\Users.Domain\\UserAdministrator.Domain.csproj": {
+                "projectPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\Users.Domain\\UserAdministrator.Domain.csproj"
+              },
+              "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\Users.Persistence.DataBase\\UserAdministrator.Persistence.DataBase.csproj": {
+                "projectPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\Users.Persistence.DataBase\\UserAdministrator.Persistence.DataBase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Services.BusinessValidator\\UserAdministrator.Services.BusinessValidator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Services.BusinessValidator\\UserAdministrator.Services.BusinessValidator.csproj",
+        "projectName": "UserAdministrator.Services.BusinessValidator",
+        "projectPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Services.BusinessValidator\\UserAdministrator.Services.BusinessValidator.csproj",
+        "packagesPath": "C:\\Users\\900214968\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Services.BusinessValidator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\900214968\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Commands\\UserAdministrator.Services.Commands.csproj": {
+                "projectPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Commands\\UserAdministrator.Services.Commands.csproj"
+              },
+              "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Common.DataCollection\\UserAdministrator.Common.DataCollection.csproj": {
+                "projectPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Common.DataCollection\\UserAdministrator.Common.DataCollection.csproj"
+              },
+              "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Common.Exceptions\\UserAdministrator.Common.Exceptions.csproj": {
+                "projectPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Common.Exceptions\\UserAdministrator.Common.Exceptions.csproj"
+              },
+              "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Queries\\UserAdministrator.Services.Queries.csproj": {
+                "projectPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\UserAdministrator.Queries\\UserAdministrator.Services.Queries.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\Users.Domain\\UserAdministrator.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\Users.Domain\\UserAdministrator.Domain.csproj",
+        "projectName": "UserAdministrator.Domain",
+        "projectPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\Users.Domain\\UserAdministrator.Domain.csproj",
+        "packagesPath": "C:\\Users\\900214968\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\Users.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\900214968\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\Users.Persistence.DataBase\\UserAdministrator.Persistence.DataBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\Users.Persistence.DataBase\\UserAdministrator.Persistence.DataBase.csproj",
+        "projectName": "UserAdministrator.Persistence.DataBase",
+        "projectPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\Users.Persistence.DataBase\\UserAdministrator.Persistence.DataBase.csproj",
+        "packagesPath": "C:\\Users\\900214968\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\Users.Persistence.DataBase\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\900214968\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\Users.Domain\\UserAdministrator.Domain.csproj": {
+                "projectPath": "C:\\Users\\900214968\\source\\repos\\UserAdministrator\\UserAdministrator\\Users.Domain\\UserAdministrator.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

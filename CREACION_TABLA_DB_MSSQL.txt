@@ -1,0 +1,9 @@
+https://github.com/hacast/UserAdministrator.git
+
+CREATE TABLE [dbo].[Users](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[Name] [varchar](50) NOT NULL,
+	[BirthDate] [datetime] NOT NULL,
+	[Active] [bit] NOT NULL
+) ON [PRIMARY]
+GO
